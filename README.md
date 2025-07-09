@@ -1,6 +1,7 @@
-Projekt z studiów magisterskich Data Science polegający na zbudowani i ewaluacji modeli klasyfikacji.
+Machine Learning project about predictiong bank customer churn. Data were taken from Kaggle.com. Project involved preparing data, training and evaluating created models.
 
-Pliki:
-evalutaion_modeling.ipynb: przygotowanie, modelowanie i ewaluacja modeli klasyfikacji
+Files:
 
-churn_modeling.csv: pliki z danymi
+evalutaion_modeling.ipynb: preparing data, model training and its evalutaion.
+
+churn_modeling.csv: data file
